@@ -1,0 +1,6 @@
+# mp
+# .autoenv
+
+if (`lsvirtualenv -b`|grep `basename $PWD`); then
+    workon `basename $PWD`
+fi

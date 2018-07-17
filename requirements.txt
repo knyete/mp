@@ -1,0 +1,6 @@
+# mp
+# requirements.txt
+
+
+esptool==2.5.0
+ampy==1.2.6

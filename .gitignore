@@ -1,0 +1,30 @@
+# mp
+# .gitignore
+
+.~*
+.*.swp
+*.pyc
+*.log
+*.pot
+*.pyo
+*.pyd
+__pycache__/*
+*~
+*.orig
+*.bak
+.DS_Store
+*.save
+.idea/*
+*sublime*
+*geany*
+*komodo*
+.env/*
+build/*
+dist/*
+*.egg-info/*
+tmp/*
+logs/*
+parts
+.project
+.pydevproject
+*.pid
