@@ -2,6 +2,9 @@
 
 # -*- coding: utf-8 -*-
 
+# mp
+# brightness/brightness.py
+
 
 import machine
 import time
