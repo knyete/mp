@@ -18,7 +18,7 @@ docs:
 	rst2html README.rst > tmp/index.html && zip tmp/docs.zip tmp/index.html
 
 shell:
-	sudo picocom $(DEV) -b 115200
+	picocom $(DEV) -b 115200
 
 
 help:

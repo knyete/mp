@@ -6,8 +6,9 @@
 # brightness/brightness.py
 
 
-import machine
 import time
+
+import machine
 
 
 PORT = 0
